@@ -1,0 +1,10 @@
+Flight 1: A, F (Cost)
+Path 1: A -> E -> C -> F. Time: 306 Cost: 354
+Path 2: A -> E -> D -> F. Time: 276 Cost: 393
+Path 3: A -> E -> D -> C -> F. Time: 361 Cost: 406
+
+Flight 2: A, B (Time)
+Path 1: A -> B. Time: 50 Cost: 10
+
+Flight 3: A, H (Cost)
+
